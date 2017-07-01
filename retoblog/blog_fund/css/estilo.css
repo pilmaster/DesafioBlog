@@ -1,0 +1,70 @@
+* {}
+
+.traso0 {
+    border: 2px solid black;
+}
+
+.traso1 {
+    border: 2px solid black;
+}
+
+.traso2 {
+    border: 2px solid black;
+}
+
+.border-right {
+    border-right: 1px solid grey;
+}
+
+.logo {
+    width: 180px;
+    height: 140px;
+    margin: 0px;
+}
+
+.buscador {
+    border-radius: 15px 15px;
+    box-shadow: 1px 1px 8px gray;
+}
+
+.ic1 {
+    font-size: 40px;
+    text-align: right;
+}
+
+.ic2 {
+    font-size: 20px;
+}
+
+ul li a span {
+    color: white;
+}
+
+.mini {
+    width: 300px;
+    height: 100px;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.desplasar {
+    text-align: right;
+    padding-right: 15px;
+}
+
+form {
+    padding: 15px;
+}
+
+body {
+    background-image: url("../images/descarga.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contenedor {
+    background-color: lightgoldenrodyellow;
+    background-attachment: fixed;
+}

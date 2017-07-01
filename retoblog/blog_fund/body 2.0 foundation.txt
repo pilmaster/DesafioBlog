@@ -1,0 +1,67 @@
+<body>
+	
+      </div>
+      <hr>
+
+      <div class="row">
+      <div class="large-4  medium-4 small-12 column callout traso1">
+      	<div class="row callout">
+      		<div class="large-4  medium-4 small-12 column"> <! -- bscador -- >	
+      </div>	
+      </div>	
+      <div class="row callout">
+      		<div class="large-4  medium-4 small-12 column"> <! – menu vert. -- >
+      </div>	
+      </div>	
+      <div class="row callout">
+      		<div class="large-4  medium-4 small-12 column"> <! -- galeria -- >	
+      </div>	
+      </div>	
+      <div class="row callout">
+      		<div class="large-4  medium-4 small-12 column"> <! -- Historial -- >	
+      </div>	
+      </div>	
+      
+      
+      </div>
+      <div class="large-4  medium-4 small-12 columna callout traso2">  <! -- articulos -- >
+      <div class="row callout">
+      		<div class="large-4  medium-4 small-12 column">
+      			<div class="">
+      				<h1></h1>
+      				<img />
+      				<p></p>
+      				<form>
+									<div class="row ">
+      <div class="large-4  medium-4 small-12 columna">
+      	<label class=""></label>
+      	<textarea class="large-4  medium-4 small-12 column" />
+      </div>
+      <div class="row callout">
+      							<div class="large-4  medium-4 small-12 column"> 
+      								<a class=""></a>
+      </div>	
+      </div>	
+      <hr>
+      <div class="row ">
+      							<div class="large-4  medium-4 small-12 column"> 
+      								<p class=""></p>
+      </div>	
+      </div>	
+      
+      
+</div>
+      
+      				</form>
+      </div>
+      
+      </div>	
+      </div>	
+      
+      </div>
+      
+      </div>
+      
+      </div>
+      </div>
+</body>

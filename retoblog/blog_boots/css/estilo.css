@@ -1,0 +1,137 @@
+.logo {
+    height: 200px;
+    /*border: 1px solid black;*/
+    padding: 4px;
+}
+
+.redesS {
+    /*border: 1px solid black;*/
+    margin-top: 155px;
+    height: 45px;
+}
+
+span {
+    font-size: 35px;
+    padding: 4px;
+    margin-top: 2px;
+    text-decoration: none;
+}
+
+.coment span {
+    font-size: 40px;
+    padding: 4px;
+    margin-top: 2px;
+    text-decoration: none;
+    color: orange;
+}
+
+nav {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+}
+
+.redesS li a {
+    text-decoration: none;
+    color: #F5F5F1;
+}
+
+.redesS li a:hover {
+    text-decoration: none;
+    color: orange;
+}
+
+
+/*.col-md-12 {*/
+
+
+/*border: 1px solid black;*/
+
+
+/*}*/
+
+input {
+    height: 35px;
+    margin-top: 6px;
+    border-radius: 15px 15px;
+}
+
+article {
+    margin-top: 10px;
+    border-bottom: 1px solid gray;
+    padding: 7px;
+}
+
+.ilustracion {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+p {
+    margin: 7px;
+    padding: 10px;
+    color: #F5F5F1;
+}
+
+h2 a {
+    color: orange;
+}
+
+#lista-opciones {
+    margin-top: 60px;
+    background-color: #F5F5F1;
+    padding: 0;
+    border-radius: 7px 7px;
+}
+
+#lista-opciones li:hover {
+    background-color: orange;
+}
+
+#lista-opciones ol {
+    list-style-type: none;
+}
+
+#lista-opciones ol li {
+    border-bottom: 1px solid black;
+    height: 50px;
+    padding-top: 10px;
+}
+
+#lista-opciones ol li:first-child {
+    border-top: 1px solid black;
+}
+
+#lista-opciones ol li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    /*padding-top: 10px;*/
+}
+
+.barlatbusq {
+    padding: 0;
+    margin: 0;
+}
+
+#buscador-input {
+    border-radius: 7px 7px;
+    background-color: orange;
+    height: 65px;
+    padding: 5px;
+}
+
+.menupri ul li:hover {
+    background-color: orange;
+}
+
+.menupri ul li:active:hover {
+    background-color: orange;
+}
+
+.blog {
+    background-color: #666666;
+}
